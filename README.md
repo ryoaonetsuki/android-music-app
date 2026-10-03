@@ -4,7 +4,7 @@
 
 ![iMusic Banner](https://img.shields.io/badge/iMusic-Professional%20Music%20App-1DB954?style=for-the-badge&logo=music&logoColor=white)
 
-[![Build Status](https://github.com/salman-dev-app/iMusic/actions/workflows/build-apk.yml/badge.svg)](https://github.com/salman-dev-app/iMusic/actions/workflows/build-apk.yml)
+[![Build Status](https://github.com/ryoaonetsuki/iMusic/actions/workflows/build-apk.yml/badge.svg)](https://github.com/ryoaonetsuki/iMusic/actions/workflows/build-apk.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Android](https://img.shields.io/badge/Platform-Android%207.0%2B-green?style=flat-square&logo=android)](https://android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?style=flat-square&logo=kotlin)](https://kotlinlang.org)
@@ -12,7 +12,7 @@
 
 **A fully professional, feature-rich music streaming Android application — a Spotify + Apple Music clone powered by free open-source music APIs. No PC required to build — uses GitHub Actions CI/CD.**
 
-[📥 Download APK](https://github.com/salman-dev-app/iMusic/releases/latest) · [🐛 Report Bug](https://github.com/salman-dev-app/iMusic/issues) · [✨ Request Feature](https://github.com/salman-dev-app/iMusic/issues)
+[📥 Download APK](https://github.com/ryoaonetsuki/iMusic/releases/latest) · [🐛 Report Bug](https://github.com/ryoaonetsuki/iMusic/issues) · [✨ Request Feature](https://github.com/ryoaonetsuki/iMusic/issues)
 
 </div>
 
@@ -24,7 +24,7 @@
 |---|---|
 | **Name** | Md Salman Biswas |
 | **Role** | Senior Software Engineer |
-| **GitHub** | [@salman-dev-app](https://github.com/salman-dev-app/salman-dev-app) |
+| **GitHub** | [@ryoaonetsuki](https://github.com/ryoaonetsuki/ryoaonetsuki) |
 | **Skills** | React, Next.js, Kotlin, TypeScript, Node.js, Laravel, Django, AWS, Docker |
 
 ---
@@ -152,7 +152,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/salman-dev-app/iMusic.git
+git clone https://github.com/ryoaonetsuki/iMusic.git
 cd iMusic
 
 # 2. Open in Android Studio
@@ -251,7 +251,7 @@ Steps:
 
 ## 📥 Install APK on Android
 
-1. Download `iMusic-Debug-APK.apk` from [Releases](https://github.com/salman-dev-app/iMusic/releases)
+1. Download `iMusic-Debug-APK.apk` from [Releases](https://github.com/ryoaonetsuki/iMusic/releases)
 2. On your Android phone: **Settings → Security → Install Unknown Apps** → Enable for your browser
 3. Open the downloaded APK file
 4. Tap **Install**
@@ -293,12 +293,12 @@ All music is sourced from **Jamendo** under Creative Commons licenses:
 
 If you found this helpful, please give it a ⭐ star on GitHub!
 
-[![GitHub Stars](https://img.shields.io/github/stars/salman-dev-app/iMusic?style=social)](https://github.com/salman-dev-app/iMusic/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/ryoaonetsuki/iMusic?style=social)](https://github.com/ryoaonetsuki/iMusic/stargazers)
 
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/salman-dev-app/salman-dev-app">Md Salman Biswas</a>
+  Made with ❤️ by <a href="https://github.com/ryoaonetsuki/ryoaonetsuki">Md Salman Biswas</a>
   <br/>
   <sub>🎵 Free music powered by Jamendo API | Open Source MIT</sub>
 </div>
